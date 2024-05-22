@@ -14,4 +14,4 @@
 <p>2. Put your PDFs inside folder files/merge or files/split</p>
 <p>3. Execute Pdf_Tool_1.0.0.exe</p>
 <p>4. Choose what you wanna do</p>
-![image](https://github.com/guimazito/pdf-tool/assets/83731012/db176779-b465-472b-aec1-14324cea6272)
+
