@@ -2,14 +2,14 @@
 
 <br>
 
-<p>DEVELOPER</p>
+**<p>DEVELOPER</p>**
 <p>1. Clone the repository</p>
 <p>2. Install all dependencies using pip install -r requirements.txt</p>
 <p>3. Execute python main.py</p>
 
 <br>
 
-<p>USER</p>
+**<p>USER</p>**
 <p>1. Download the latest version from https://github.com/guimazito/pdf-tool/releases</p>
 <p>2. Put your PDFs inside folder files/merge or files/split</p>
 <p>3. Run the executable</p>
